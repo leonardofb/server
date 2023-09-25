@@ -1,0 +1,20 @@
+{
+  "name": "mipaquete",
+  "version": "1.0.0",
+  "description": "paquete de prueba",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "keywords": [
+    "miapp",
+    "leonardo",
+    "fierro"
+  ],
+  "author": "Leonardo Fierro",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
